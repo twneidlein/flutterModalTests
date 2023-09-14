@@ -1,3 +1,3 @@
 # flutterModalTests
 
-For use with hammer and Labview DAQ
+For use with impact hammer and DAQ 
